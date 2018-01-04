@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Thime",
+  "version": "0.1",
+
+  "description": "A browsing history visualizer",
+  "icons": {
+
+  },
+
+  "browser_action": {
+    "default_icon": {
+
+    },
+    "default_title": "Thime",
+    "default_popup": "popup.html"
+  },
+
+  "background": {
+    "persistent": false
+  },
+  "permissions": [
+
+  ]
+}
